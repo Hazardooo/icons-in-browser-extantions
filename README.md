@@ -1,3 +1,4 @@
+[![en](https://img.shields.io/badge/lang-rus-red.svg)](https://github.com/Hazardooo/icons-in-browser-extantions/blob/main/README.ru.md)
 # Icons in your browser
 <b>Save your browser from evil spirits with icons!</b>
 

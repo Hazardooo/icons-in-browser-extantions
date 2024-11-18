@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Icons in your browser",
+  "version": "1.0",
+  "description": "Let your web surfing be safe.",
+  "homepage_url": "https://github.com/Hazardooo/icons-in-browser-extantions",
+  "icons": {
+    "64": "icons/icon64.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": {
+      "32": "icons/icon32.png",
+      "64": "icons/icon64.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Save and preserve.",
+    "default_popup": "popup/popup.html"
+  }
+}
